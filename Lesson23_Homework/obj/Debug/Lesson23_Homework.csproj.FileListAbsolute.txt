@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lesson23_Homework\Lesson23_Homework\bin\Debug\Lesson23_Homework.exe.config
+C:\Users\User\source\repos\Lesson23_Homework\Lesson23_Homework\bin\Debug\Lesson23_Homework.exe
+C:\Users\User\source\repos\Lesson23_Homework\Lesson23_Homework\bin\Debug\Lesson23_Homework.pdb
+C:\Users\User\source\repos\Lesson23_Homework\Lesson23_Homework\obj\Debug\Lesson23_Homework.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lesson23_Homework\Lesson23_Homework\obj\Debug\Lesson23_Homework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lesson23_Homework\Lesson23_Homework\obj\Debug\Lesson23_Homework.exe
+C:\Users\User\source\repos\Lesson23_Homework\Lesson23_Homework\obj\Debug\Lesson23_Homework.pdb
